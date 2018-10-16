@@ -1,0 +1,2 @@
+# Analyze-Casino-strategy
+There is a problem: when a person in casino and he has 1000 dollars per day. The strategy is the original bet is 5 dollars. When he loses one game, he will increase his bet by timing two. When he wins the game, he can win two times bet. After this win, he will come back to the original bet and continue game. The probability to win the game is 18/37. He can play 72 times per day. We want to know after 1000 days, can the person win money or lose money. 
